@@ -82,5 +82,6 @@ a static app with no backend to host a trends API.
 Issues and PRs welcome. Keep it dependency-free and backend-free — that's the whole point.
 
 ## 📄 License
+Claude was used for proof reading and correction of code. All ideas are intellectual property of Benedict Schweins.
 
 MIT — see [LICENSE](LICENSE).
